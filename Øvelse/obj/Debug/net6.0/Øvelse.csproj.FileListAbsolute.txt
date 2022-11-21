@@ -1,0 +1,15 @@
+/Users/ozankorkmaz/Desktop/Øvelse/Øvelse/obj/Debug/net6.0/Øvelse.csproj.AssemblyReference.cache
+/Users/ozankorkmaz/Desktop/Øvelse/Øvelse/obj/Debug/net6.0/Øvelse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ozankorkmaz/Desktop/Øvelse/Øvelse/obj/Debug/net6.0/Øvelse.AssemblyInfoInputs.cache
+/Users/ozankorkmaz/Desktop/Øvelse/Øvelse/obj/Debug/net6.0/Øvelse.AssemblyInfo.cs
+/Users/ozankorkmaz/Desktop/Øvelse/Øvelse/obj/Debug/net6.0/Øvelse.csproj.CoreCompileInputs.cache
+/Users/ozankorkmaz/Desktop/Øvelse/Øvelse/bin/Debug/net6.0/Øvelse
+/Users/ozankorkmaz/Desktop/Øvelse/Øvelse/bin/Debug/net6.0/Øvelse.deps.json
+/Users/ozankorkmaz/Desktop/Øvelse/Øvelse/bin/Debug/net6.0/Øvelse.runtimeconfig.json
+/Users/ozankorkmaz/Desktop/Øvelse/Øvelse/bin/Debug/net6.0/Øvelse.dll
+/Users/ozankorkmaz/Desktop/Øvelse/Øvelse/bin/Debug/net6.0/Øvelse.pdb
+/Users/ozankorkmaz/Desktop/Øvelse/Øvelse/obj/Debug/net6.0/Øvelse.dll
+/Users/ozankorkmaz/Desktop/Øvelse/Øvelse/obj/Debug/net6.0/refint/Øvelse.dll
+/Users/ozankorkmaz/Desktop/Øvelse/Øvelse/obj/Debug/net6.0/Øvelse.pdb
+/Users/ozankorkmaz/Desktop/Øvelse/Øvelse/obj/Debug/net6.0/Øvelse.genruntimeconfig.cache
+/Users/ozankorkmaz/Desktop/Øvelse/Øvelse/obj/Debug/net6.0/ref/Øvelse.dll
